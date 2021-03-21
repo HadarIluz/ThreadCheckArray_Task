@@ -7,8 +7,7 @@ public class SharedData
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
-	
-	// comment by yuval :)
+	//change
 	
 	public SharedData(ArrayList<Integer> array, int b) {
 		
