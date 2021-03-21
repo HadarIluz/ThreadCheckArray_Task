@@ -5,6 +5,8 @@ public class SharedData
 	private boolean flag;
 	private final int b;
 	
+	// comment by yuval :)
+	
 	public SharedData(int[] array, int b) {
 		
 		this.array = array;
