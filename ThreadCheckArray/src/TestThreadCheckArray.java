@@ -1,9 +1,12 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-/**
- * @author [author name]
-*/
+
+
+/**This class Checking the functionality of the program
+ * @author iluzh
+ */
 public class TestThreadCheckArray {
+	
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
 			Thread thread1, thread2;
